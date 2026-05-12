@@ -321,27 +321,16 @@ hr
    top: 1px;
 }
 
-#qx_search .cse .gsc-control-cse, #qx_search .gsc-control-cse
+#qx_search
 {
-   background-color: transparent;
-   border: 0px;
-   height: 20px;
-   width: 200px;
+   width: 300px;
 }
 
-#qx_search .gsc-search-box-tools .gsc-search-box .gsc-input
+#qx_search .gsc-control-cse
 {
-   padding-right: 0px;
-}
-
-#qx_search .gsc-search-button, #qx_search input.gsc-search-button, #qx_search .gsc-search-button-v2
-{
-   width: 15px;
-   min-width: 15px;
-   margin-top: 0px;
-   margin-left: 0px;
-   padding: 6px;
-   border-radius: 6px;
+   background: transparent;
+   border: 0;
+   padding: 0;
 }
 
 .manual_li_title_1
